@@ -1,0 +1,104 @@
+.mt50{
+	margin-top: 50px;
+}
+#bounce{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+#explode{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+#puff{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+#pic2{
+	display: none;
+}
+
+#radius{
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+.addrad{
+	border-radius: 10em;
+}
+
+
+#radius1{
+	width: 200px;
+	height: 200px;
+	background-color: silver;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+#swich{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	border: 2px solid black;
+	margin-bottom: 20px;
+
+}
+.swich{
+	color: red;
+	font-size:25px; 
+	
+}
+.swich1{
+	color: green;
+	font-size:20px; 
+	border-radius: 50%;
+	line-height: 20px;
+	text-align: center;
+	padding: 20px;
+}
+#anim1{
+	width: 200px;
+	height: 200px;
+	background-color: grey;
+	border: 2px solid black;
+	margin-bottom: 20px;
+	color: red;
+	font-size: 18px;
+
+}
+
+div#dialog{
+	display: none;
+}
+
+.highlight{
+	background-color: yellow; 
+}
+ #sort1,#sort2{
+ 	list-style-type: none; 
+ }
+
+#sort1 li, #sort1 li,{
+	margin-top: 10px;
+	padding: 10px;
+
+}
+
+
+
+
